@@ -5,6 +5,7 @@ __keep/
 build/
 dist/
 node_modules/
-./applications/src/iotcore-to-dynamodb_test/package
-./applications/src/iotcore-to-dynamodb_test/venv
+
+./applications/src/iotcore-to-dynamodb_test/package/
+./applications/src/iotcore-to-dynamodb_test/venv/
 
